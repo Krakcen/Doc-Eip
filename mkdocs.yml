@@ -1,0 +1,5 @@
+site_name: SVR Documentation
+theme: readthedocs
+pages:
+- Index: index.md
+- A Propos: about.md
