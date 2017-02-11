@@ -2,7 +2,7 @@
 
 **Pour installer MkDocs et pouvoir build la doc a partir du repo:**
 
-* installer [link](https://chocolatey.org/install "Chocolatey") (package manager windows)
+* installer **[Chocolatey](https://chocolatey.org/install "link to installation")** (package manager windows)
 
 * ouvrir un cmd en admin, taper la commande `choco install MkDocs`
 
