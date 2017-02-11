@@ -1,6 +1,6 @@
 # Doc-Eip
 
-** Pour installer MkDocs et pouvoir build la doc a partir du repo: **
+**Pour installer MkDocs et pouvoir build la doc a partir du repo:**
 
 * installer chocolatey (package manager windows)
 
